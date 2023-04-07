@@ -1,9 +1,9 @@
 ---
-title: Welcome
+title: Home
 layout: home
 ---
 
-Welcome to OpenMRS Documentation!
+Welcome to IntendAble Documentation!
 
 Introduction to IntendAble
 
