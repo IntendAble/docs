@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: welcome
+layout: home
 ---
 
 Welcome to OpenMRS Documentation!
